@@ -46,9 +46,8 @@ Before building the visualizations, the raw dataset underwent a structured quali
 ├── README.md
 ├── data/
 │   └── instagram-data-set.xlsx  # Cleaned dataset ready for analysis
+```
 
 ## 📫 Contact
 
-Created by Manuel Briceño — Data Analyst | Data Quality & Compliance Background
-
-Connect with me on [linkedin](https://www.linkedin.com/in/manuel-briceno058)
+* **LinkedIn:** [Manuel Briceño](https://www.linkedin.com/in/manuel-briceno058)
