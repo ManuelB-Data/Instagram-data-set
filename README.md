@@ -36,7 +36,7 @@ Before building the visualizations, the raw dataset underwent a structured quali
 
 ## 📈 Dashboard & Files
 
-* 📊 **Interactive Looker Studio Dashboard:** [View Live Dashboard Here] https://datastudio.google.com/s/vM1GrWLBse8
+* 📊 **Interactive Looker Studio Dashboard:** [View Live Dashboard Here](https://datastudio.google.com/s/vM1GrWLBse8)
 * 📂 **Cleaned Dataset:** You can check the processed Excel file (`instagram-data-set.xlsx`) directly in the `data/` folder of this repository.
 
 ---
